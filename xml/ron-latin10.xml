@@ -7,8 +7,7 @@
 
   Transliteration definitions for Romanian diacritics.
 
-  Copyright (C) 2008 Rona Linke <rlinke@lingua-systems.com>
-  Copyright (C) 2009 Lingua-Systems Software GmbH
+  Copyright (C) 2015 Ștefan Suciu <stefbv70@gmail.com>
 
 -->
 
@@ -17,7 +16,7 @@
 
     <name>RON-Latin10</name>
     <desc>Romanian with diacritics</desc>
-    <reverse>false</reverse>
+    <reverse>true</reverse>
 
     <!-- set of transliteration rules -->
     <!--

@@ -14,8 +14,8 @@
 
 <translit>
 
-    <name>RON-Latin10</name>
-    <desc>Romanian with diacritics</desc>
+    <name>ISO 8859-16 ROU</name>
+    <desc>Romanian with appropriate diacritics</desc>
     <reverse>true</reverse>
 
     <!-- set of transliteration rules -->
